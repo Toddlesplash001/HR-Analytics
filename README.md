@@ -50,7 +50,7 @@ The **HR Analytics Dashboard** is designed to provide a comprehensive overview o
 
 #### Tableau Dashboard Link
 
-You can access the live Tableau dashboard using the following link:
+You can access the live Tableau dashboard using the following link(Kindly look in full screen mode):
 
 [HR Analytics Dashboard](https://public.tableau.com/views/HRANALYTICSDASHBOARD2_17213400086730/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
