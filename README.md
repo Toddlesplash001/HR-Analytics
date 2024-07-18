@@ -42,6 +42,18 @@ The **HR Analytics Dashboard** is designed to provide a comprehensive overview o
    - **Attrition Rate by Gender for Different Ages**: Analyze attrition trends across various age groups and genders to develop targeted retention policies.
    - **Job Satisfaction Rating**: Evaluate job satisfaction levels across different roles to identify areas needing improvement.
 
+#### Technical Details
+
+- **Tool Used**: **Tableau**
+- **Data Source**: Excel File
+- **Updated On**: 18 July 2024
+
+#### Tableau Dashboard Link
+
+You can access the live Tableau dashboard using the following link:
+
+[HR Analytics Dashboard](https://public.tableau.com/views/HRANALYTICSDASHBOARD2_17213400086730/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
-This README provides an overview of the **HR Analytics Dashboard**, instructions for use, and contact information for further assistance. This dashboard is a powerful tool to help HR professionals monitor and analyze key human resource metrics effectively.
+This README provides an overview of the **HR Analytics Dashboard**, instructions for use, and technical details. This dashboard is a powerful tool to help HR professionals monitor and analyze key human resource metrics effectively.
